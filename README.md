@@ -11,8 +11,9 @@
 ---
 
 #### Creating resources
-* Only **SUPERMENTOR** has the accesibility to create resources
 
 <img src='add_resource.png' />
+
+* Only **SUPERMENTOR** has the accesibility to create resources
 
 ---
