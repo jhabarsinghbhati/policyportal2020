@@ -32,5 +32,13 @@
 ---
 ###### Assign next phase
 ![assign](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/Selectionshot_2020-08-12_17:30:04.png?raw=true)
-* when a **Team** is new by default it will be in *phase-0* use this button to bring them to *pahase-1*
+* when a **Team** is new by default it will be in *phase-0* use this button to bring them to *phase-1*
 * when a **Team** completes the given phase task clicking this button would increment their phase
+
+###### Assign another task
+![task](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/Selectionshot_2020-08-12_17:30:20.png?raw=true)
+* use this button to assign the task to the given team.
+
+![task](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/Selectionshot_2020-08-12_16:42:58.png?raw=true)
+* now fill the task title and task description and submit it to assign the task to the given team
+* **NOTE: ** the title and description should match with the existing task created by supermentor
