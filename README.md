@@ -29,3 +29,9 @@
 * once you click on the team it will redirect you to the new tab ( shown in the below image)
 
 ![task](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/assign_taks.png?raw=true)
+---
+###### Assign next phase
+![assign](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/Selectionshot_2020-08-12_17:30:04.png?raw=true)
+* when a **Team** is new by default it will be in *phase-0"
+* when you click this button it will Increment their phase
+* when a **Team** completes the given phase task clicking this button would increment their phase
