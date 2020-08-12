@@ -41,4 +41,4 @@
 
 ![task](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/Selectionshot_2020-08-12_16:42:58.png?raw=true)
 * now fill the task title and task description and submit it to assign the task to the given team
-* **NOTE: ** the title and description should match with the existing task created by supermentor
+* **NOTE:** the title and description should match with the existing task created by supermentor
