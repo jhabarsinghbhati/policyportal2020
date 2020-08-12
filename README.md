@@ -7,7 +7,7 @@
 <img src='task_create.png' />
 
 * While you are creating task and it has resorces ( Docs needed while working on this tasks ), then create Resource before 
-
+---
 #### Creating resources
 * Only **SUPERMENTOR** has the accesibility to create resources
 
