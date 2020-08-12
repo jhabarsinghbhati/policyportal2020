@@ -1,4 +1,4 @@
-# policyportal2020
+# POLICYPORTAL2020
 
 ## SuperMentor
 #### Creating tasks for Interns 
