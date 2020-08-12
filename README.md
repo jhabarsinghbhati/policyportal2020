@@ -21,4 +21,9 @@
 #### 2. Assigning tasks to a team
 
 ![team name](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/team_name.png?raw=true)
+* Go to 'Assign mentor tab'
+* bottom you will see this tab (as shown in image)
+* click on the team to be assigned the task
+* once you click on the team it will redirect you to the new tab ( shown in the below image)
 
+![task](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/assign_taks.png?raw=true)
