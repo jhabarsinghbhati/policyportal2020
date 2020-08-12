@@ -1,7 +1,7 @@
 # POLICYPORTAL2020
 
 ## SuperMentor
-#### Creating tasks for Interns 
+#### 1. Creating tasks for Interns 
 
 <img src='task_create.png' />
 
@@ -10,7 +10,7 @@
 
 ---
 
-#### Creating resources
+#### 2. Creating resources
 
 <img src='add_resource.png' />
 
