@@ -46,6 +46,7 @@
 ###### Send noticification
 ![notic](https://raw.githubusercontent.com/jhabarsinghbhati/policyportal2020/master/Selectionshot_2020-08-12_17%3A30%3A30.png)
 * click on this button you will get a tab (shown in the image)
+
 ![](https://github.com/jhabarsinghbhati/policyportal2020/blob/master/not.png?raw=true)
 * fill the form and submit it
 * once you submit it the message will be visible on the team dashboard
